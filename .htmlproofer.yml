@@ -1,0 +1,8 @@
+directory: ./_site
+check_html: true
+check_img_http: true
+disable_external: true
+assume_extension: true
+allow_hash_href: true
+ignore_urls: []
+ignore_files: []
